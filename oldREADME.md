@@ -1,9 +1,7 @@
-# Currency-Converter-API
-
-Simple currency converter API with access to current rates of over 100 countries from the Exchangeratesapi service.
+# Scientific-Calculator-API
+Simple scientific calculator API built to demonstrate the enhanced type safety provided by the 'class-validator' and 'class-transformer' packages.
 
 ## API Documentation
-
 Explore the full API documentation on [Swagger](localhost:5000/docs).
 
 ## Main Scripts
@@ -27,6 +25,7 @@ Explore the full API documentation on [Swagger](localhost:5000/docs).
    - Command: `npm run test`
    - Run unit tests to ensure the reliability of the API. These tests cover a wide range of scenarios, including session management and error handling.
 
+
 ## Getting Started
 
 To get started with the Express Session Test API, follow these steps:
@@ -38,17 +37,17 @@ To get started with the Express Session Test API, follow these steps:
    - Command: `npm run build`
    - Use this script to build the project, the initial step in setting up the API.
 
-1. **Start**
+2. **Start**
 
    - Command: `npm run start`
    - Once the project is built, use this command to start the API for production use.
 
-1. **Development Mode**
+3. **Development Mode**
 
    - Command: `npm run dev`
    - This script is ideal for development as it enables live-reloading and other helpful tools for debugging and testing.
 
-1. **Unit Testing**
+4. **Unit Testing**
    - Command: `npm run test`
    - Run unit tests to ensure the reliability of the API. These tests cover a wide range of scenarios, including session management and error handling.
 
